@@ -1,6 +1,6 @@
 # VolGAN
 Code to accompany the paper "VolGAN: a generative model for arbitrage-free implied volatility surfaces"
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4617536
+https://www.tandfonline.com/doi/full/10.1080/1350486X.2025.2471317
 
 
 VolGAN.py contains the necessary functions to train VolGAN, alongside arbitrage penalty calculation functions.
