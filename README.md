@@ -21,5 +21,3 @@ Some advice on data processing:
   -To reach a fixed (m, tau) grid, some interpolation/extrapolation is necessary
 
 
-
-For any other questions, please email vuletic [at] maths [dot] ox [dot] ac [dot] uk
